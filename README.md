@@ -53,14 +53,13 @@ Je suis actuellement à la recherche de nouvelles opportunités professionnelles
 ### 📈 Certifications et Formations Complémentaires :
 - **Angular Avancé** - *Orsys, 21h (2024)*  
 - **Créer et administrer des conteneurs Docker** - *Orsys, 21h (2024)*  
-- **SST (2024)**  
 
 ---
 
-### ✨ Projets Récents :
-- 🔧 Développement d'une solution interne de GMAO  
-- 🌍 Mise en place de SIG pour la visualisation de données patrimoniales  
-- 📸 Chaîne de traitement d'orthophotographies historiques  
+### ✨ Projets Perso Récents :
+- 📸 Création d'un portfolio pour photographe (Astro | KeystoneJS)
+- 🌍 Implémentation d'un calculateur de prédiction de performance sportive  (Java)
+- 🔧 Site vitrine d'une association 
 
 ---
 
