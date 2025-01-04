@@ -59,7 +59,7 @@ Je suis actuellement à la recherche de nouvelles opportunités professionnelles
 ### ✨ Projets Perso Récents :
 - 📸 Création d'un portfolio pour photographe (Astro | KeystoneJS)
 - 🌍 Implémentation d'un calculateur de prédiction de performance sportive  (Java)
-- 🔧 Site vitrine d'une association 
+- 🔧 Site vitrine d'une association (Astro | déploiement auto Vercel)
 
 ---
 
