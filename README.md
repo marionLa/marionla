@@ -13,19 +13,19 @@ Je suis actuellement à la recherche de nouvelles opportunités professionnelles
 
 ### ⚙️ Stack Technique :
 #### 🖥️ Backend :
-- **Java 17** | **Spring Boot** | **JWT** | **Hibernate** | **Maven**  
+- **Java 17** | **Spring Boot** | **Hibernate** | **Maven**  
 - **ThymeLeaf** | **Swagger** | **Asciidoctor**  
 - **Tests** : JUnit, Mockito
 
 #### 🌐 Frontend :
-- **Angular 17** | **RxJS** | **Angular Material** | **React** | **Material-UI**  
-- **Tests** : Cypress, Playwright
+- **Angular 17** | **RxJS** | **Angular Material**   
+- **Tests** :  Playwright
 
 #### 🗄️ Base de Données :
 - **PostgreSQL** | **PostGIS** | **FlywayDB**  
 
 #### 🚀 OPS :
-- **Jenkins** | **Docker** (notions) | **Linux** (Debian / RedHat / Fedora)
+- **Jenkins** | **Docker** (notions) | **Linux** (Debian / Fedora)
 
 #### 🔧 Autres outils :
 - **Tests API** : Postman  
@@ -57,9 +57,11 @@ Je suis actuellement à la recherche de nouvelles opportunités professionnelles
 ---
 
 ### ✨ Projets Perso Récents :
-- 📸 Création d'un portfolio pour photographe (Astro | KeystoneJS)
-- 🌍 Implémentation d'un calculateur de prédiction de performance sportive  (Java)
+- 💡 Exploration de l'authentification oAuth2 avec Spring Boot sur un [mini-projet](https://github.com/marionLa/spring-boot-oauth)
 - 🔧 Site vitrine d'une association ([Astro](https://github.com/marionLa/vallees-connectees-website))
+- 📸 Création d'un portfolio pour photographe (Astro | KeystoneJS)
+- 🌍 Implémentation d'un calculateur de prédiction de performance sportive  (Java / work in progress...)
+
 
 ---
 
